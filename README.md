@@ -139,6 +139,7 @@ The following waveform shows the simulation results of the design, verifying its
 <p align="center">
 <img width="876" height="327" alt="Image" src="https://github.com/user-attachments/assets/6e2fcafd-8165-424b-8327-38744722d8e0" />
 </p>
+
 ---
 
 # Demultiplexer (DEMUX)
@@ -186,6 +187,7 @@ The following waveform shows the simulation results of the design, verifying its
 <p align="center">
 <img width="877" height="205" alt="Image" src="https://github.com/user-attachments/assets/9e1b781b-83f1-434a-85c3-9895920499d0" />
 </p>
+
 ---
 
 
