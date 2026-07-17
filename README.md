@@ -60,6 +60,16 @@ Y = S'·I0 + S·I1
 
 ---
 
+## 📊 Simulation Waveform
+
+The following waveform shows the simulation results of the design, verifying its functionality under the given testbench.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94ab5151-2695-4ea6-b05f-4e62b611710a" alt="Simulation Waveform" width="900"/>
+</p>
+
+---
+
 ## 4×1 Multiplexer
 
 ### Inputs
@@ -83,6 +93,15 @@ Y = S'·I0 + S·I1
 | 0 | 1 | I1 |
 | 1 | 0 | I2 |
 | 1 | 1 | I3 |
+
+---
+
+## 📊 Simulation Waveform
+The following waveform shows the simulation results of the design, verifying its functionality under the given testbench.
+
+<p align="center">
+<img width="868" height="200" alt="Image" src="https://github.com/user-attachments/assets/426c993e-7ed5-4f91-a01a-73b15242cc44" />
+</p>
 
 ---
 
@@ -112,6 +131,14 @@ Y = S'·I0 + S·I1
 |1|1|0|I6|
 |1|1|1|I7|
 
+---
+
+## 📊 Simulation Waveform
+The following waveform shows the simulation results of the design, verifying its functionality under the given testbench.
+
+<p align="center">
+<img width="876" height="327" alt="Image" src="https://github.com/user-attachments/assets/6e2fcafd-8165-424b-8327-38744722d8e0" />
+</p>
 ---
 
 # Demultiplexer (DEMUX)
@@ -152,6 +179,15 @@ A Demultiplexer routes a single input to one of several outputs depending on the
 All other outputs remain LOW.
 
 ---
+
+## 📊 Simulation Waveform
+The following waveform shows the simulation results of the design, verifying its functionality under the given testbench.
+
+<p align="center">
+<img width="877" height="205" alt="Image" src="https://github.com/user-attachments/assets/9e1b781b-83f1-434a-85c3-9895920499d0" />
+</p>
+---
+
 
 # Applications
 
